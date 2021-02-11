@@ -42,8 +42,8 @@ import org.springframework.web.util.pattern.PathPatternParser;
 /**
  * description:
  *
- * @author wangpeng
- * @date 2019/01/02
+ * @author ElzatAlim
+ * @date 2021/02/02
  */
 //@Configuration
 public class CorsConfig {

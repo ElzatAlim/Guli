@@ -20,8 +20,8 @@ import java.util.List;
  * 全局Filter，统一处理会员登录与外部不允许访问的服务
  * </p>
  *
- * @author qy
- * @since 2019-11-21
+ * @author ElzatAlim
+ * @date 2021/02/02
  */
 @Component
 public class AuthGlobalFilter implements GlobalFilter, Ordered {

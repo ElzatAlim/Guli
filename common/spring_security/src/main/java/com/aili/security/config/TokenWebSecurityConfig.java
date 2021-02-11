@@ -23,7 +23,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
  * </p>
  *
  * @author ElzatAlim
- * @since 2021-02-11
+ * @since 2021-02-12
  */
 @Configuration
 @EnableWebSecurity

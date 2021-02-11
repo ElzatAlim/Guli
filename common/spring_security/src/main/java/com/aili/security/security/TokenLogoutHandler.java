@@ -14,8 +14,8 @@ import javax.servlet.http.HttpServletResponse;
  * 登出业务逻辑类
  * </p>
  *
- * @author qy
- * @since 2019-11-08
+ * @author ElzatAlim
+ * @since 2021-02-11
  */
 public class TokenLogoutHandler implements LogoutHandler {
 

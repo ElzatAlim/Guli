@@ -26,8 +26,8 @@ import java.util.List;
  * 访问过滤器   权限过滤器
  * </p>
  *
- * @author qy
- * @since 2019-11-08
+ * @author ElzatAlim
+ * @since 2021-02-11
  */
 public class TokenAuthenticationFilter extends BasicAuthenticationFilter {
     private TokenManager tokenManager;

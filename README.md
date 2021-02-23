@@ -30,3 +30,8 @@ Maven+EasyExcel+ nginx
 后台页面：(http://122.14.253.88:21451/)     alzat.cn
 
 前台页面：(http://122.14.253.88:21456/)     elzat.net
+
+
+ **数据库表展示** 
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0223/205751_230f1146_8469442.png "QQ图片20210223205718.png")

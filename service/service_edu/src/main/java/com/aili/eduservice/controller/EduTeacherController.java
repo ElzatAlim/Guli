@@ -1,7 +1,6 @@
 package com.aili.eduservice.controller;
 
 
-import com.aili.baseservice.exceptionHandler.GuliException;
 import com.aili.commonutils.R;
 import com.aili.eduservice.entity.EduTeacher;
 import com.aili.eduservice.entity.vo.TeacherQuery;

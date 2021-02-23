@@ -90,7 +90,8 @@ public class WxApiController {
 
 
 
-            return "redirect:http://localhost:3000?token="+token;
+//            return "redirect:http://localhost:3000?token="+token;
+            return "redirect:http://122.14.253.88:21456?token="+token;
             //TODO 登录
 
         } catch (Exception e) {

@@ -4,6 +4,7 @@ import com.aili.eduservice.entity.EduCourse;
 import com.aili.eduservice.entity.frontvo.CourseWebVo;
 import com.aili.eduservice.entity.vo.CoursePublishVo;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.mapstruct.Mapper;
 
 /**
  * <p>
